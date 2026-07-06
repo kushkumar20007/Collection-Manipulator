@@ -76,3 +76,9 @@ A Python program that manages a collection of student records. This project demo
 - ✅ The `del` keyword for record removal
 
 ---
+## 👨‍💻 Author
+
+**Kush Kumar**
+
+⭐ If you like this project, don't forget to star the repository!
+
