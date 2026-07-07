@@ -19,7 +19,7 @@ while True:
             grade = input("Enter Grade: ")
             dob = input("Enter Date of Birth: ")
             subjects = input("Enter Subjects (comma separated): ")
-#===========================================
+
             subject_set = set(subjects.split(","))
 
             id_dob = (student_id, dob)
