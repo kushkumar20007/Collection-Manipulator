@@ -66,6 +66,8 @@ A Python program that manages a collection of student records. This project demo
 ### Output of code 
 
 <img width="741" height="843" alt="image" src="https://github.com/user-attachments/assets/6b15ac4e-8757-4b7e-be08-75d06159b332" />
+<img width="351" height="287" alt="image" src="https://github.com/user-attachments/assets/ee89ca22-a772-4a48-8416-0644068f17a2" />
+
 
 
 ## 🧠 Concepts Demonstrated
